@@ -1,4 +1,4 @@
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## Languages
 > [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
@@ -6,7 +6,7 @@
 > [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 > [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)
 
-## Frameworks
+## Automation Frameworks
 > ![Playwright](https://img.shields.io/badge/-Playwright-3f9900?style-for-the-badge)
 > ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-ffa800?style-for-the-badge&logo=webdriverio&logoColor=FFFFFF)
 > ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style-for-the-badge&logo=jasmine&logoColor=FFFFFF)
