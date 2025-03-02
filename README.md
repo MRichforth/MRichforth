@@ -83,6 +83,7 @@
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)](#)
+[![Safari](https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff)](#)
 
 ## IDE
 [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
@@ -95,6 +96,3 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Safari](https://img.shields.io/badge/Safari-006CFF?logo=safari&logoColor=fff)](#)
-
-
